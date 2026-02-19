@@ -4,7 +4,8 @@ description: Analyze who is modeling what behaviors to whom, and how observation
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4516
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - modeling-influence-analysis
 - observational
